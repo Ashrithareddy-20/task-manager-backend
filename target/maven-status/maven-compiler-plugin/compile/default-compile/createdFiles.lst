@@ -1,0 +1,14 @@
+com\taskmanager\repository\TaskRepository.class
+com\taskmanager\DailyTaskManagerApplication.class
+com\taskmanager\service\impl\TaskServiceImpl.class
+com\taskmanager\dto\TaskStatusUpdate.class
+com\taskmanager\dto\DashboardSummary.class
+com\taskmanager\controller\TaskController.class
+com\taskmanager\exception\ErrorResponse.class
+com\taskmanager\dto\TaskRequest.class
+com\taskmanager\entity\Task.class
+com\taskmanager\exception\GlobalExceptionHandler.class
+com\taskmanager\service\TaskService.class
+com\taskmanager\config\CorsConfig.class
+com\taskmanager\exception\ResourceNotFoundException.class
+com\taskmanager\config\CorsConfig$1.class
